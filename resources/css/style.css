@@ -1,3 +1,37 @@
-* {
-    background-color: red;
+h1 {
+    background-color: rgb(111, 233, 123);
+    text-align: center;
+}
+
+.beequote {
+    background-color: rgb(182, 236, 244);
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(242, 167, 235);
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(56, 196, 25);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: rgb(140, 217, 25);
+  background-color: transparent;
+  text-decoration: underline;
 }
